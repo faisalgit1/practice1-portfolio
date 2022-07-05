@@ -1,0 +1,120 @@
+body {
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.gray {
+    color: rgb(99, 90, 90);
+}
+
+.orange {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+h1 {
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.space {
+    padding-bottom: 15%;
+}
+
+.space3 {
+    padding-bottom: 15%;
+
+}
+
+.added {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.space2 {
+    padding-bottom: 5%;
+    padding-top: 22%;
+}
+
+.flex {
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 100px;
+}
+
+.space4 {
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+
+.center {
+    text-align: center;
+}
+
+.half {
+    width: 100%;
+    margin: 0;
+    height: 60%;
+    box-shadow: 10px;
+}
+
+.food-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px 20px;
+}
+
+.banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: orange;
+    font-weight: 700;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 30px;
+
+}
+
+.right {
+    padding-left: 20%;
+}
+
+.left {
+    padding-left: 20%;
+
+}
+
+.f {
+    color: beige;
+    padding-top: 5px;
+}
+
+.fs {
+    padding-top: 10px;
+}
+
+.color {
+    background-color: black;
+}
+
+.left1 {
+    padding-left: 20%;
+}
